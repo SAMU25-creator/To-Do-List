@@ -41,3 +41,7 @@ Users select an option by entering a number, and the app performs the action.
 Choose an option: 2
 Enter a new task: Study Python
 Task added!
+
+##what i should impliment 
+1. show the date 
+2. show the time 

@@ -1,5 +1,5 @@
 import unittest
-from To-Do-List.py import add_task, remove_task
+from To-Do-List import add_task, remove_task 
 
 
 class TestTodoApp(unittest.TestCase):
