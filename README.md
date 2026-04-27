@@ -31,3 +31,13 @@ Users select an option by entering a number, and the app performs the action.
 ---
 
 ## 💻 Example
+--- TO-DO LIST ---
+
+1. View Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+
+Choose an option: 2
+Enter a new task: Study Python
+Task added!
